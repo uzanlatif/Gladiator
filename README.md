@@ -1,2 +1,2 @@
-# Prot_Glad
+# Game Prototype
 "# Gladiator" 
